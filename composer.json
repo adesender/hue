@@ -1,0 +1,7 @@
+{
+    "name": "andrew/hue",
+    "type": "project",
+    "require": {
+        "sqmk/phue": "^1.6"
+    }
+}
